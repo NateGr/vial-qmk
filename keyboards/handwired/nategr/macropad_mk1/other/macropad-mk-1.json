@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MacroPad Mk 1",
+    "notes": "Plate Generation: https://kbplate.ai03.com/   \nSwitch Cutout: Cherry MX Basic - Fillet: ~~0.5~~ 0   \nStab Cutout: Cherry MX Spec - Fillet 0   \nAcoustic Cutout: None - Fillet 0.5   \nUnit Width: 19.05   \nUnit Height: 19.05   \nKerf: 0   \nSave as DXF - Load into Fusion 360 in mm   \n\n",
+    "switchMount": "cherry",
+    "plate": true
+  },
+  [
+    "0,0",
+    "0,1",
+    "0,2",
+    "0,3"
+  ],
+  [
+    "1,0",
+    "1,1",
+    "1,2",
+    "1,3"
+  ],
+  [
+    "2,0",
+    "2,1",
+    "2,2",
+    "2,3"
+  ],
+  [
+    "3,0",
+    "3,1",
+    "3,2",
+    "3,3"
+  ]
+]
