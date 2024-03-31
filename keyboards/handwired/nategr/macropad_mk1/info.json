@@ -6,15 +6,15 @@
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
-        "command": false,
-        "console": false,
-        "extrakey": false,
-        "mousekey": false,
-        "nkro": false
+        "command": true,
+        "console": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP4", "GP5", "GP6", "GP7"],
-        "rows": ["GP0", "GP1", "GP2", "GP3"]
+        "cols": ["GP6", "GP5", "GP4", "GP3"],
+        "rows": ["GP29", "GP28", "GP27", "GP26"]
     },
     "processor": "RP2040",
     "url": "",
